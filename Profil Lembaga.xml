@@ -1,0 +1,3196 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>FaisalUje</Author>
+  <LastAuthor>Lutpi Pauji Ismail</LastAuthor>
+  <LastPrinted>2019-09-16T01:02:41Z</LastPrinted>
+  <Created>2013-07-30T09:18:12Z</Created>
+  <LastSaved>2019-09-16T01:00:14Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12225</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2133801096448">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801096468">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801096488">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801096508">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801096528">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801096548">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801095616">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801095636">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801095656">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801095676">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801095696">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801095716">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801905728">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905748">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905768">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905788">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801900528">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801900548">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801900568">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801900588">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801900608">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801900628">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905520">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905540">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905560">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905580">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905600">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905620">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905312">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905332">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905352">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905372">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905392">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905412">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905104">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905124">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905144">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905164">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905184">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905204">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904688">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904708">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904728">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904748">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904768">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904788">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904272">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904292">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904312">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904332">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904352">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904372">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912176">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912196">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912216">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912236">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912256">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912276">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903440">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903460">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903480">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903500">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903520">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903540">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801907600">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801907620">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801907640">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801907660">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801907680">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801907700">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801911968">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801911988">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912008">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912028">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912048">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912068">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904896">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904916">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904936">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904956">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904976">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904996">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903024">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903044">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903064">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903084">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903104">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801903124">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904064">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904084">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904104">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904124">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904144">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801904164">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801910928">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801910948">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801910968">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801910988">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801911008">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801911028">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905936">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905956">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801905976">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801907392">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801907412">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801907432">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801907452">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801907472">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801907492">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801907512">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133550250736">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133550250756">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133550250776">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133550250796">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133550250816">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801627184">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801627204">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133801627224">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133801627244">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801627264">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801627284">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133801627304">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133801627324">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801625728">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801625748">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133801625768">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133801625788">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801625808">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801625828">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133801625848">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133801625868">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801913008">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801913048">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801913068">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133801913088">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="m2133801913108">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801912384">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801912404">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801912424">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801912444">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801912464">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801912484">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801825664">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801825684">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801825704">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133800184640">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133800184660">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133800184680">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133800184700">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133800184720">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133800184740">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801845200">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801845220">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801845240">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801845260">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801845280">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801845300">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801813200">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801813220">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801813240">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133801813260">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801813280">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133801813300">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133795968960">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133795968980">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2133795969000">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133795969020">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133795969040">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m2133795969060">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF0000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s101">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s114">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s116">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s128">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s129">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s130">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s131">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s132">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s133">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s134">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="1" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s136">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s144">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s146">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s147">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s148">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s149">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="20" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Profil">
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="58" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="5" ss:Width="53.25"/>
+   <Column ss:Width="45"/>
+   <Column ss:Index="13" ss:Width="61.5"/>
+   <Column ss:Width="54.75"/>
+   <Column ss:Width="59.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="45.75"/>
+   <Column ss:Width="93"/>
+   <Column ss:Width="59.25"/>
+   <Column ss:Width="102"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="11" ss:StyleID="s146"><Data ss:Type="String">PENDIDIKAN ANAK USIA DINI</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="23.25">
+    <Cell ss:MergeAcross="11" ss:StyleID="s149"><Data ss:Type="String">DAARUTTAQWA ASYAMSURIYYAH</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="11" ss:StyleID="s148"><Data ss:Type="String">No ijin Operasional No:421.9/0038/PAUDNI PO/KAB/2015</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="11" ss:StyleID="s147"><Data ss:Type="String">Alamat : Babakan Sadewata RT 01/01 Desa Sabandar Kecamatan Karangtengah</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:MergeAcross="11" ss:StyleID="s147"><Data ss:Type="String">Cianjur Jawabarat 43281</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s144"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s144"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Laporan Sekolah</Data></Cell>
+   </Row>
+   <Row ss:Index="10" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Provinsi </Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">: Prov. Jawa Barat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Kab/Kota</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">: Kab. Cianjur</Data></Cell>
+   </Row>
+   <Row ss:Index="13" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">A. Identitas Sekolah </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nama Sekolah</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: PAUD DAARUT TAQWA ASYAMSURIYYAH</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">NPSN / NSS</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String" x:Ticked="1">: 69911089 / ****         </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Jenjang Pendidikan</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String" x:Ticked="1">: KB </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Status Sekolah</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: Swasta</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">B. Lokasi Sekolah </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Alamat</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: Kp.Babakan Sadewata RT.01/01 Desa Sabandar Karangatengah</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">RT/RW</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 1/1</Data></Cell>
+    <Cell ss:Index="16" ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nama Dusun</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Desa/Kelurahan</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: Sabandar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kode pos</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 43281</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kecamatan</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: Kec. Karang Tengah</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lintang/Bujur</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 0.0000000/0.0000000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">C. Data Pelengkap Sekolah </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kebutuhan Khusus</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: -</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK Pendirian Sekolah</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 470/DS/PM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tgl SK Pendirian</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 2013-12-17</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Status Kepemilikan</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: Yayasan</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK Izin Operasional</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 421.9/0038/PAUDNI PO/KAB/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tgl SK Izin Operasional</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 2015-01-22</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SK Akreditasi</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tgl SK Akreditasi</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">No Rekening BOP</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 4062-01-016218-53-6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nama Bank</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: BRI</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cabang / KCP Unit</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Rekening Atas Nama</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: PAUD DAARUTTAQWA ASYAMSURIYYAH</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">MBS</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: Tidak</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Luas Tanah Milik</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 150 m2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Luas Tanah Bukan Milik</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 0 m2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">C. Kontak Sekolah </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nomor Telepon</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 085846588052</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nomor Fax</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Email</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: paud.daaruttaqwa@gmail.com</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Website</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">D. Data Periodik </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kategori Wilayah</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: Wilayah Perbatasan, </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Daya Listrik</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: 900</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Akses Internet</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: Tidak Ada</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Akreditasi</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Waktu Penyelenggaraan</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: Sehari Penuh/5 hari</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sumber Listrik</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: PLN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sertifikasi ISO</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">: Belum Bersertifikat</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:CenterHorizontal="1"/>
+    <Header x:Margin="0.31496062992125984"/>
+    <Footer x:Margin="0.31496062992125984"/>
+    <PageMargins x:Bottom="0.39370078740157483" x:Left="0.23622047244094491"
+     x:Right="0.23622047244094491" x:Top="0.39370078740157483"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>90</Scale>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Prasarana">
+  <Table ss:ExpandedColumnCount="30" ss:ExpandedRowCount="11" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="57.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="51"/>
+   <Column ss:Width="62.25"/>
+   <Column ss:Width="55.5"/>
+   <Column ss:Width="67.5"/>
+   <Column ss:Width="61.5"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:Width="46.5"/>
+   <Column ss:Width="75.75"/>
+   <Column ss:Width="90.75"/>
+   <Column ss:Width="51.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="41.25"/>
+   <Column ss:Width="50.25"/>
+   <Column ss:Width="59.25"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="67.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="45"/>
+   <Column ss:AutoFitWidth="0" ss:Width="50.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="43.5"/>
+   <Column ss:Width="78.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="92.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="74.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">B. Data Prasarana</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Presentase Kondisi Semua Prasarana </Data></Cell>
+   </Row>
+   <Row ss:Index="4" ss:AutoFitHeight="0">
+    <Cell ss:MergeDown="1" ss:StyleID="m2133801095616"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="m2133801095636"><Data
+      ss:Type="String">Nama Prasarana</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2133801095656"><Data ss:Type="String">Panjang (m)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2133801095676"><Data ss:Type="String">Lebar (m)</Data></Cell>
+    <Cell ss:MergeAcross="21" ss:StyleID="m2133801095696"><Data ss:Type="String">Kondisi Kerusakan Prasarana (%)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2133801095716"><Data ss:Type="String">Rata-rata &#10;Kondisi Kerusakan &#10;Prasarana</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2133801096448"><Data ss:Type="String">Status &#10;Kepemilikan</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="7" ss:StyleID="s91"><Data ss:Type="String">Pondasi</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Sloop Kolom Balok</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Plester Struktur</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Kuda-Kuda Atap</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Kaso Atap</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Reng Atap</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Penutup Atap/Lisplang/Talang</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Rangka Plafon</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tutup Plafon</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Bata/Dinding</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Plester Dinding</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Daun Jendela</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Daun Pintu</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Kusen</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tutup Lantai</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Instalasi Listrik</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Instalasi Air</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Drainase</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Finishing Struktur</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Finishing Plafon</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Finishing Dinding</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Finishing Kusen Pintu Jendela</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801096468"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s100" ss:Formula="=AVERAGE(RC[-18]:RC[-1])"><Data
+      ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Milik</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801096488"><Data ss:Type="String">Kelas A</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s100" ss:Formula="=AVERAGE(RC[-18]:RC[-1])"><Data
+      ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Milik</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801096508"><Data ss:Type="String">Kelas B</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s100" ss:Formula="=AVERAGE(RC[-18]:RC[-1])"><Data
+      ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Milik</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801096528"><Data ss:Type="String">WC Siswa Laki-laki</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s100" ss:Formula="=AVERAGE(RC[-18]:RC[-1])"><Data
+      ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Milik</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801096548"><Data ss:Type="String">WC Siswa Perempuan</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s100" ss:Formula="=AVERAGE(RC[-18]:RC[-1])"><Data
+      ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Milik</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="10"><Data ss:Type="String"> </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sarana">
+  <Table ss:ExpandedColumnCount="13" ss:ExpandedRowCount="32" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">C. Data Sarana</Data></Cell>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s101"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801910928"><Data ss:Type="String">Jenis Sarana</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Jumlah</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801910948"><Data ss:Type="String">Letak</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801910968"><Data ss:Type="String">Keterangan</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801910988"><Data ss:Type="String">Meja Siswa</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801911008"><Data ss:Type="String">Kelas B</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801911028"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801904064"><Data ss:Type="String">Meja Guru</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801904084"><Data ss:Type="String">Kelas B</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801904104"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801904124"><Data ss:Type="String">Kursi Guru</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801904144"><Data ss:Type="String">Kelas B</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801904164"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801903024"><Data ss:Type="String">Papan Tulis</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801903044"><Data ss:Type="String">Kelas B</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801903064"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801903084"><Data ss:Type="String">Jam Dinding</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801903104"><Data ss:Type="String">Kelas B</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801903124"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801904896"><Data ss:Type="String">Simbol Kenegaraan</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801904916"><Data ss:Type="String">Kelas B</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801904936"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801904956"><Data ss:Type="String">Lainnya</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801904976"><Data ss:Type="String">WC Siswa Laki-laki</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801904996"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801911968"><Data ss:Type="String">Tempat Sampah</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801911988"><Data ss:Type="String">WC Siswa Laki-laki</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801912008"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801912028"><Data ss:Type="String">Rak Majalah</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801912048"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801912068"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801907600"><Data ss:Type="String">Meja TU</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801907620"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801907640"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801907660"><Data ss:Type="String">Kursi TU</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801907680"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801907700"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801903440"><Data ss:Type="String">Kursi dan Meja Tamu</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801903460"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801903480"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801903500"><Data ss:Type="String">Lemari</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801903520"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801903540"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801912176"><Data ss:Type="String">Rak hasil karya peserta didik</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801912196"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801912216"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801912236"><Data ss:Type="String">Meja Guru</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801912256"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801912276"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801904272"><Data ss:Type="String">Kursi Guru</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801904292"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801904312"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801904332"><Data ss:Type="String">Tempat Sampah</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801904352"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801904372"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801904688"><Data ss:Type="String">Jam Dinding</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801904708"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801904728"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801904748"><Data ss:Type="String">Penanda Waktu (Bell Sekolah)</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801904768"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801904788"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801905104"><Data ss:Type="String">Rak Buku</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801905124"><Data ss:Type="String">Kantor</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801905144"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801905164"><Data ss:Type="String">Tempat Sampah</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801905184"><Data ss:Type="String">WC Siswa Perempuan</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801905204"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801905312"><Data ss:Type="String">Meja Siswa</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801905332"><Data ss:Type="String">WC Siswa Perempuan</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801905352"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801905372"><Data ss:Type="String">Papan Tulis</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801905392"><Data ss:Type="String">Kelas A</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801905412"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801905520"><Data ss:Type="String">Meja Siswa</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801905540"><Data ss:Type="String">Kelas A</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801905560"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801905580"><Data ss:Type="String">Meja Guru</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801905600"><Data ss:Type="String">Kelas A</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801905620"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801900528"><Data ss:Type="String">Jam Dinding</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801900548"><Data ss:Type="String">Kelas A</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801900568"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801900588"><Data ss:Type="String">Simbol Kenegaraan</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801900608"><Data ss:Type="String">Kelas A</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801900628"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801905728"><Data ss:Type="String">Kursi Guru</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801905748"><Data ss:Type="String">Kelas A</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801905768"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2133801905788"><Data ss:Type="String">Total</Data></Cell>
+    <Cell ss:StyleID="s91" ss:Formula="=SUM(R[-29]C:R[-1]C)"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Rombel">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="7" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s114"><Data ss:Type="String">D. Data Rombongan Belajar (Rombel)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeDown="1" ss:StyleID="m2133801907392"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="m2133801907412"><Data
+      ss:Type="String">Nama Rombel</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2133801907432"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801907452"><Data ss:Type="String">Jumlah Siswa</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m2133801907472"><Data
+      ss:Type="String">Wali Kelas</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Jumlah</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801907492"><Data ss:Type="String">MAWAR</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">KB</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s92" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801907512"><Data ss:Type="String">RINA GUNAWAN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801905936"><Data ss:Type="String">TULIP</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">KB</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s92" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801905956"><Data ss:Type="String">DINI RUSTI DANIYYAH</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="4" ss:StyleID="m2133801905976"><Data ss:Type="String">Total</Data></Cell>
+    <Cell ss:StyleID="s91" ss:Formula="=SUM(R[-3]C:R[-1]C)"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s91" ss:Formula="=SUM(R[-3]C:R[-1]C)"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s91" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="PTK">
+  <Table ss:ExpandedColumnCount="21" ss:ExpandedRowCount="16" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s114"><Data ss:Type="String">E. Data Pendidik dan Tenaga Kependidikan (PTK)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeDown="1" ss:StyleID="m2133801912384"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="m2133801912404"><Data
+      ss:Type="String">Nama</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2133801912424"><Data ss:Type="String">Gelar</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m2133801912444"><Data
+      ss:Type="String">NIP</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m2133801912464"><Data
+      ss:Type="String">NUPTK</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801912484"><Data ss:Type="String">JK</Data></Cell>
+    <Cell ss:MergeAcross="9" ss:StyleID="m2133801913008"><Data ss:Type="String">Keterangan</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="10" ss:StyleID="s68"><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Pendidikan</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s80"><Data ss:Type="String">Jurusan/Prodi</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Sertifikasi</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Kepegawaian</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Jabatan</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">TMT Kerja</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Tugas Tambahan</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Mengajar</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Jumlah Jam Per Minggu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801913048"><Data ss:Type="String">Ayi Rachmawati</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">M.M.Pd</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801913068"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801913088"><Data ss:Type="String"
+      x:Ticked="1"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">v</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801913108"><Data ss:Type="String">Guru Kelas PAUD</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Honor Sekolah</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Kepala Sekolah</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">05-06-2017</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Kepala Sekolah</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">24 jam</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801625728"><Data ss:Type="String">Dini Rusti Daniyyah</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S.Pd.I</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801625748"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801625768"><Data ss:Type="String"
+      x:Ticked="1"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">v</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801625788"><Data ss:Type="String">Guru Kelas PAUD</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Honor Sekolah</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Kelas </Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">17-07-2017</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru PAUD, </Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">15 jam</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801625808"><Data ss:Type="String">Ema Rohamah</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S.Pd.I</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801625828"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801625848"><Data ss:Type="String"
+      x:Ticked="1"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">v</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801625868"><Data ss:Type="String">Guru Kelas PAUD</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Honor Sekolah</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Pendamping</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">12-07-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801627184"><Data ss:Type="String">neng siti nurhanifa</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S.Pd.I</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801627204"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801627224"><Data ss:Type="String"
+      x:Ticked="1"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">v</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801627244"><Data ss:Type="String">Guru Kelas PAUD</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Honor Sekolah</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Pendamping</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">17-07-2017</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133801627264"><Data ss:Type="String">nina nurmalasari</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S.Pd.I</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801627284"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801627304"><Data ss:Type="String"
+      x:Ticked="1"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">v</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801627324"><Data ss:Type="String">Guru Kelas PAUD</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Honor Sekolah</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Pendamping</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">12-07-2013</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133550250736"><Data ss:Type="String">Rina Gunawan</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S.HI</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133550250756"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133550250776"><Data ss:Type="String"
+      x:Ticked="1"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">v</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">S1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133550250796"><Data ss:Type="String">Guru Kelas PAUD</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Honor Sekolah</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru Kelas </Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">17-07-2017</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Guru PAUD, </Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">15 jam</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s128"/>
+    <Cell ss:StyleID="s129"/>
+    <Cell ss:StyleID="s129"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s134"/>
+    <Cell ss:StyleID="s134"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133550250816"><Data ss:Type="String">Jumlah PTK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Total</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s92" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Peserta Didik">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="36" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s114"><Data ss:Type="String">F. DATA PESERTA DIDIK</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="2" ss:StyleID="m2133795968960"><Data ss:Type="String">Jumlah Peserta Didik</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Total</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s92" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+   <Row ss:Index="7" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s136"><Data ss:Type="String" x:Ticked="1">- SISWA MENURUT USIA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133795968980"><Data ss:Type="String">Usia</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Total</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133795969000"><Data ss:Type="String">&lt; 2 TAHUN </Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133795969020"><Data ss:Type="String">2 - 3 TAHUN </Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133795969040"><Data ss:Type="String">3 - 4 TAHUN </Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133795969060"><Data ss:Type="String">4 - 5 TAHUN </Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801813200"><Data ss:Type="String">&gt; 5 TAHUN </Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">28</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801813220"><Data ss:Type="String">Total</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s136"><Data ss:Type="String" x:Ticked="1">- SISWA MENURUT AGAMA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801813240"><Data ss:Type="String">Agama</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Total</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801813260"><Data ss:Type="String">Islam</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801813280"><Data ss:Type="String">Kristen</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801813300"><Data ss:Type="String">Katholik</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801845200"><Data ss:Type="String">Hindu</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801845220"><Data ss:Type="String">Budha</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801845240"><Data ss:Type="String">Konghucu</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801845260"><Data ss:Type="String">Lainnya</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801845280"><Data ss:Type="String">Kepercayaan kpd Tuhan YME</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801845300"><Data ss:Type="String">Total</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(R[-8]C:R[-1]C)"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(R[-8]C:R[-1]C)"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s136"><Data ss:Type="String" x:Ticked="1">- SISWA MENURUT PENGHASILAN ORANG       TUA (AYAH + IBU + WALI)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133800184640"><Data ss:Type="String">Penghasilan</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Total</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133800184660"><Data ss:Type="String">Tidak di isi</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133800184680"><Data ss:Type="String">Kurang dari Rp. 500,000</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133800184700"><Data ss:Type="String">Rp. 500,000 - Rp. 999,999</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133800184720"><Data ss:Type="String">Rp. 1,000,000 - Rp. 1,999,999</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">19</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133800184740"><Data ss:Type="String">Rp. 2,000,000 - Rp. 4,999,999</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801825664"><Data ss:Type="String">Rp. 5,000,000 - Rp. 20,000,000</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801825684"><Data ss:Type="String">Lebih dari Rp. 20,000,000</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2133801825704"><Data ss:Type="String">Total</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s116" ss:Formula="=SUM(RC[-2]:RC[-1])"><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
